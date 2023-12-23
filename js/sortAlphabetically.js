@@ -27,6 +27,6 @@ function sortAlphabetically(arr) {
     return arr;
 }
 
-let test = ['hello', 'apple', 'andesite', 'audacious', 'aaa', 'crazy']
+let test = ['c', 'd', 'e', 'a', 'g'];
 
-console.log(sortAlphabetically(test)); // ["aaa","andesite","apple","audacious","crazy","hello"]
+console.log(sortAlphabetically(test)); // ["a","c","d","e","g"]
