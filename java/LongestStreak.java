@@ -1,7 +1,7 @@
 /*
 
 solved-problems - Some problems I've solved in coding, all in various languages
-Written in 2023 by koiyakiya | koiyakiya9@gmail.com
+Written in 2023 by starxeras | starxeras@gmail.com
 
 To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring
 rights to this software to the public domain worldwide. This software is distributed without any warranty.
