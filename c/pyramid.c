@@ -31,7 +31,7 @@ void pyramid(int n)
 {
     for (int i = n; i > 0; i--)
     {
-        // We minus one here to add space for the # (for proper alignment)
+        // We add spaces minus one to give room for the upcoming #s.
         for (int j = 0; j < i - 1; j++)
         {
             printf(" ");
