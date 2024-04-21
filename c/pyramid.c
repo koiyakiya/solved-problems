@@ -10,13 +10,21 @@ You should have received a copy of the CC0 Public Domain Dedication along with t
 If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
 
 */
+
 #include <stdio.h>
 
 void pyramid(int n);
 
 int main(void)
 {
-    pyramid(9);
+    pyramid(4);
+    /*
+    Prints out:
+       #
+      ##
+     ###
+    ####
+    */
 }
 
 void pyramid(int n)
